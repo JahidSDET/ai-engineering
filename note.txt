@@ -1,0 +1,7 @@
+py -m pip  install pipenv = create environment
+pipenv install= to create environment
+pipenv install openai dotenv
+
+role: system, user, assistant
+temperature: how detarministic the model should be(0[deterministic= similar result]-2[varied result])
+context window>Siding window 
