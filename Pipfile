@@ -8,6 +8,8 @@ openai = "*"
 dotenv = "*"
 pypdf = "*"
 chromadb = "*"
+langchain-groq = "*"
+langchain_tavily = "*"
 
 [dev-packages]
 
