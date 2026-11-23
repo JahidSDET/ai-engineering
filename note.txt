@@ -5,3 +5,9 @@ pipenv install openai dotenv
 role: system, user, assistant
 temperature: how detarministic the model should be(0[deterministic= similar result]-2[varied result])
 context window>Siding window 
+few shot promoting> give examples
+Natural language inference: understanding relation between 2 text(premise vs hypothesis)
+        -> result-> entilement(matched), contriduct, Natural 
+Google BERT (Bidirectional Encoder Representations from Transformers) is an AI language model introduced by Google in 2018 
+that understands the context and meaning of words by analyzing the words before and after them. 
+DistilBERT (Distilled BERT) is a smaller, faster, and more lightweight version of Google's BERT, developed by Hugging Face
